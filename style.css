@@ -40,3 +40,9 @@ main {
 .cartao-imagem {
     width: 100%;
 }
+
+footer {
+background-color: #73aacf;
+padding: 15px 25px;
+color: #fff;
+}
