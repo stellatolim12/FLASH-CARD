@@ -57,6 +57,14 @@ main {
 .cartao:hover .cartao-interno {
   transform: rotateY(180deg);
 }
+.cartao-verso {
+  transform: rotateY(180deg);
+}
+
+section {
+  display: flex;
+  /*gap: 16px; */
+}
 
 footer {
 background-color: #73aacf;
